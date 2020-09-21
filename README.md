@@ -54,6 +54,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://crisaito.netlify.app/)
-- GitHub [@your-username](https://github.com/crisaito)
-- Twitter [@your-twitter](http://twitter.com/crhisaito)
+- Website [crisaito.netlify.app](https://crisaito.netlify.app/)
+- GitHub [@crisaito](https://github.com/crisaito)
+- Twitter [@crhisaito](http://twitter.com/crhisaito)
